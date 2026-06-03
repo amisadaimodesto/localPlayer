@@ -35,16 +35,3 @@ Um reprodutor de áudio moderno, construído com tecnologias web nativas (HTML, 
     * Canvas API
     * Local Storage
 * [**jsmediatags**](https://github.com/aadsm/jsmediatags) (Leitura de ID3 tags)
-
-## 📁 Estrutura do Projeto
-
-```text
-meu-player-mp3/
-├── index.html           # Estrutura principal
-├── README.md            # Documentação
-├── css/
-│   └── style.css        # Estilos e design
-└── js/
-    ├── jsmediatags.min.js # Biblioteca para leitura de tags ID3```
-    └── script.js        # Lógica do player e visualizador
-\`\`\`
